@@ -15,8 +15,9 @@ Securing systems and protecting sensitive data is crucial today. Traditional sin
 - LCD display
 
 ## Circuit Diagram
+![circuit_diag](https://github.com/SupratikV/2fa-arduino/assets/76445159/d153f028-6d2e-484c-a867-3aa83bfa363b)
+
 
 
 ## Credits
-- [Arduino](https://www.arduino.cc/)
 - [Arduino](https://www.arduino.cc/)
